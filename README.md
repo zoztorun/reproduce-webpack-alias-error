@@ -1,4 +1,4 @@
-# interview-app
+# reproduce-webpack-alias-error
 
 ## Project setup
 ```
